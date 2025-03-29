@@ -1,0 +1,21 @@
+# SFML libraries and includes
+/lib/
+/include/
+
+# Build artifacts
+*.o
+*.exe
+*.out
+SimpleTicTacTech
+TicTacTech
+
+# macOS specific
+.DS_Store
+
+# CMake build folder
+/build/
+
+# Downloaded files
+*.dmg
+*.tar.gz
+
