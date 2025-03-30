@@ -9,6 +9,7 @@
 SimpleTicTacTech
 TicTacTech
 
+temp_auto_push.bat
 # macOS specific
 .DS_Store
 
@@ -19,3 +20,5 @@ TicTacTech
 *.dmg
 *.tar.gz
 
+.gitignore
+branch_structure.json
